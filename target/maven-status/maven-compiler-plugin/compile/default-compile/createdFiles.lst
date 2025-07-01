@@ -1,0 +1,14 @@
+com\mycompany\proyecto\usuarios\Administrador.class
+com\mycompany\proyecto\usuarios\Usuario.class
+com\mycompany\proyecto\modelo\Producto.class
+com\mycompany\proyecto\modelo\SolicitudCompra.class
+com\mycompany\proyecto\gui\LoginFrame.class
+com\mycompany\proyecto\Main.class
+com\mycompany\proyecto\gui\LoginFrame$1.class
+com\mycompany\proyecto\seguridad\Autenticacion.class
+com\mycompany\proyecto\gui\AdminFrame.class
+com\mycompany\proyecto\usuarios\Cliente.class
+com\mycompany\proyecto\util\ArchivoUsuarios.class
+com\mycompany\proyecto\gui\ClienteFrame.class
+com\mycompany\proyecto\gui\EmpleadoFrame.class
+com\mycompany\proyecto\usuarios\Empleado.class

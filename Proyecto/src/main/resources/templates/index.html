@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Página Principal</title>
+</head>
+<body>
+    <h1>Mapa de Regiones</h1>
+
+    <!-- Región enlazada sin JS -->
+    <a th:href="@{'/viajes/region/' + 'PECUS'}">
+        <svg width="200" height="200">
+            <path d="M10 10 H 90 V 90 H 10 Z" fill="lightblue" stroke="black"/>
+        </svg>
+    </a>
+</body>
+</html>
